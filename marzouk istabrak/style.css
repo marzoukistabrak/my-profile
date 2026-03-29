@@ -1,0 +1,26 @@
+<head>
+	<title>Boris Paillard's profile</title>
+	<meta name="description" content="This is Boris' profile">
+	<meta charset="UTF-8">
+
+	<!-- Link your stylesheet here -->
+	<link rel="stylesheet" href="style.css">
+</head>
+     h1, h2, h3 {
+  font-family: "Helvetica", sans-serif; /* if all headers use Helvetica */
+}
+a {
+  color: yellow;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: yellow;
+  text-decoration: none;
+}
+body {
+  color: blue;
+}
+h1 {
+  color: red;
+}
